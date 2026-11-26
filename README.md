@@ -64,8 +64,5 @@ Status: Not started
 - Handling invalid inputs using exception handling.
 - Developing a menu-driven Python application.
 
-## Limitation
-The book collection is stored in memory and is lost when the program is closed.
-
 ## Author
 **Riddhi Deshmukh**
